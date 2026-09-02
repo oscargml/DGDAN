@@ -1,0 +1,8 @@
+{
+  "name": "DGEDAN Norte de Texas - Monitor Diplomático",
+  "description": "Sistema institucional de monitoreo de prensa, análisis de coyuntura estratégica y generación de despachos diplomáticos para la Dirección General de Estrategia Diplomática para América del Norte (DGEDAN - SRE) en la circunscripción de Norte de Texas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
